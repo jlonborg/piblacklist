@@ -1,1 +1,3 @@
 lemonpi.io
+creative-libraries.lemonpi.io
+content.lemonpi.io
