@@ -7,3 +7,4 @@ www.routercheck.com
 sericontech.com
 longboat.ekstrabladet.dk
 cmp.ekstrabladet.dk
+cul-api-prod.tpv-analytics.com
