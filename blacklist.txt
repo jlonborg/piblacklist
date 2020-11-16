@@ -8,3 +8,13 @@ sericontech.com
 longboat.ekstrabladet.dk
 cmp.ekstrabladet.dk
 cul-api-prod.tpv-analytics.com
+appassets-mvtdev-com.cdn.ampproject.org
+moovitapp-com.cdn.ampproject.org
+smooth-storage.aptoma.no
+gdpr-tcfv2.sp-prod.net
+eae-logger.ekstrabladet.dk
+cdn.mytaste.org
+app-analytics-v2.snapchat.com
+consent.dk
+cdn.privacy-mgmt.com
+in.appcenter.ms
