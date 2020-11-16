@@ -18,3 +18,9 @@ app-analytics-v2.snapchat.com
 consent.dk
 cdn.privacy-mgmt.com
 in.appcenter.ms
+dns.msftncsi.com
+stats.mainroll.com
+ov-tanium-01.ov.netdesign.dk
+p-ts-zs-1.eng.tdc.net
+p-ts-prim-2.ip.tdk.dk
+p-ts-prim-1.ip.tdk.dk
